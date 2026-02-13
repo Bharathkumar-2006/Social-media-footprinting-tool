@@ -1,6 +1,6 @@
 ## Social Media Footprinting Tool
 
-The Social Media Footprinting Tool is a Python-based OSINT utility designed to collect publicly available information from social media platforms. It extracts user footprint data from Instagram using Instaloader and from Twitter using the Twitter API v2.
+The Social Media Footprinting Tool is a Python-based OSINT utility designed to collect publicly available information from social media platforms. It extracts user footprint data from Instagram using Instaloader and from Twitter using the Twitter API.
 
 This project demonstrates how public profile data can be programmatically accessed, analyzed, and structured for research or cybersecurity reconnaissance purposes.
 
